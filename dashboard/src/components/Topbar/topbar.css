@@ -1,0 +1,37 @@
+.topBar-container{
+    background: linear-gradient(90deg,rgba(0,0,0,0.5),rgba(33, 0, 87, 0.2));
+    /* background-color: #162052; */
+    height:100%;
+    width: 100%;
+    /* justify-content: center; */
+    /* align-items: center; */
+    /* place-items: center; */
+
+    border-radius: 10px;
+
+    display:flex;
+
+}
+.topBar-container .menu{
+    padding: 15px;
+    height: 20px;
+    flex: 0;
+    /* background-color: aquamarine; */
+    color: white;
+}
+.topBar-container .tittle{
+    color: white;
+    /* scroll-padding-top: 10px; */
+    flex-wrap: wrap;
+    flex: 100%;
+    /* align-items: last baseline; */
+    /* justify-content: center; */
+    /* place-items: center; */
+    /* background-color: beige; */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    /* align-items: center; */
+    /* text-align: center; */
+    font-size: 40px;
+}

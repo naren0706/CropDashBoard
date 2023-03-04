@@ -1,0 +1,10 @@
+.home-container{
+    width: 100;
+    background-color: aquamarine;
+    height:100px;
+    border-radius: 8px;
+    padding: 10px;
+}
+.cards{
+    display: flex;
+}
